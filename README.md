@@ -9,7 +9,7 @@
 
 ## I enjoy
 
-- Doing GYM
+- Doing Gym
 - Playing Resident Evil
 - Reading books
 - Learning about AI
