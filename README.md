@@ -4,8 +4,8 @@
 
 - TypeScript, JavaScript, Go, Rust, C, Python, Java
 - PostgreSQL, MySQL, Redis, S3, SurrealDB
-- VueJS, NextJS, NuxtJS, Axum, Gin
-- Kubernetes, Docker, Helm
+- VueJS, NuxtJS, Axum, Gin
+- Kubernetes, Docker
 
 ## I enjoy
 
