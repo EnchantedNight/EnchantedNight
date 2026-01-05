@@ -2,9 +2,9 @@
 
 ## I use
 
-- Typescript, Go, Rust, C, Python, Java
-- PostgreSQL, MySQL, Redis, S3
-- VueJS, NextJS, NuxtJS, Axum, Gin, Spring Boot
+- TypeScript, JavaScript, Go, Rust, C, Python, Java
+- PostgreSQL, MySQL, Redis, S3, SurrealDB
+- VueJS, NextJS, NuxtJS, Axum, Gin
 - Kubernetes, Docker, Helm
 
 ## I enjoy
