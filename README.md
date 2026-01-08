@@ -3,7 +3,7 @@
 ## I use
 
 - TypeScript, JavaScript, Go, Rust, C, Python, Java
-- PostgreSQL, MySQL, Redis, S3, SurrealDB
+- PostgreSQL, MySQL, Redis, S3
 - VueJS, NuxtJS, Axum, Gin
 - Kubernetes, Docker
 
