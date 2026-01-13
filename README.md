@@ -2,7 +2,11 @@
 
 ---
 
-[![Skills](https://skillicons.dev/icons?i=bash,docker,fastapi,golang,kubernetes,neovim,nuxt,postgres,python,ts,rust,tailwind,tensorflow,grafana,java,prisma,prometheus,rabbitmq,redis,solidity,spring,gitlab,terraform,vercel,nodejs,pinia,github,react,mongodb,git&perline=6)](https://skillicons.dev)
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=bash,docker,fastapi,golang,kubernetes,neovim,nuxt,postgres,python,ts,rust,tailwind,tensorflow,grafana,java,prisma,prometheus,rabbitmq,redis,solidity,spring,gitlab,terraform,vercel,nodejs,pinia,github,react,mongodb,git&perline=8)](https://skillicons.dev)
+
+</div>
 
 ---
 
