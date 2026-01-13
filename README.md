@@ -12,9 +12,9 @@
 
 ---
 
-## I enjoy
-
 <div align="left">
+
+## I enjoy
   
 - Doing Gym
 - Playing Resident Evil
