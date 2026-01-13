@@ -14,9 +14,13 @@
 
 ## I enjoy
 
+<div align="left">
+  
 - Doing Gym
 - Playing Resident Evil
 - Reading books
 - Learning about AI
+
+</div>
 
 </div>
