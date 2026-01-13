@@ -4,7 +4,7 @@
 
 ---
 
-[![Skills](https://skillicons.dev/icons?i=bash,docker,fastapi,golang,kubernetes,neovim,nuxt,postgres,python,ts,rust,tailwind,tensorflow,grafana,java,prisma,prometheus,rabbitmq,redis,gitlab,nodejs,pinia,github,react,mongodb,git,js,lua,elasticsearch,idea&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=bash,docker,fastapi,golang,kubernetes,neovim,nuxt,postgres,python,ts,rust,tailwind,tensorflow,grafana,java,prisma,prometheus,rabbitmq,redis,gitlab,nodejs,pinia,github,react,mongodb,git,js,elasticsearch,idea&perline=8)](https://skillicons.dev)
 
 ---
 
