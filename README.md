@@ -8,7 +8,7 @@
 
 ---
 
-[![Exploring](https://skillicons.dev/icons?i=solidity,spring,vercel,terraform,reactivex,deno&perline=6)](https://skillicons.dev)
+[![Exploring](https://skillicons.dev/icons?i=gradle,spring,vercel,terraform,hibernate,deno&perline=6)](https://skillicons.dev)
 
 ---
 
