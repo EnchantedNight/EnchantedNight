@@ -1,6 +1,13 @@
-# I'm 17 y.o. I love computer science, operating systems and distributed systems.
-
 <div align="center">
+
+# ✨ Hey there!
+# I'm Enchanted, and I'm 17 y.o.
+
+<div style="color: gray">
+
+### I love Computer Science, Operating System and Distributed Systems
+
+</div>
 
 ---
 
