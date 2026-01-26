@@ -2,9 +2,9 @@
 
 # ✨ Hey there!
 
-<div align="left">
-
 ### I'm Enchanted, and I'm 17 y.o.
+
+<div align="left">
 
 > ### I love Computer Science, Operating System and Distributed Systems
 
