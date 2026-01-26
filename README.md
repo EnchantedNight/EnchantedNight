@@ -26,10 +26,10 @@
 
 ## I enjoy
   
-> ##### Doing Gym
-> ##### Playing Resident Evil
-> ##### Reading books
-> ##### Learning about AI
+> #### Doing Gym
+> #### Playing Basketball
+> #### Reading books
+> #### Learning about AI
 
 </div>
 
