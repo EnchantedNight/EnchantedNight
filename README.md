@@ -22,9 +22,9 @@
 
 ---
 
-<div align="left">
-
 ## I enjoy
+
+<div align="left">
   
 > #### Doing Gym
 > #### Playing Basketball
