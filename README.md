@@ -12,7 +12,13 @@
 
 ### Currently Exploring
 
-[![Exploring](https://skillicons.dev/icons?i=astro,gradle,spring,vercel,terraform,hibernate&perline=6)](https://skillicons.dev)
+[![Exploring](https://skillicons.dev/icons?i=astro,gradle,spring,vercel,hibernate&perline=6)](https://skillicons.dev)
+
+---
+
+### Wanna try
+
+[![Try](https://skillicons.dev/icons?i=dart,flutter,supabase,terraform&perline=6)](https://skillicons.dev)
 
 ---
 
