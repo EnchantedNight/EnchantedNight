@@ -4,9 +4,13 @@
 
 ---
 
+### Gained Skills
+
 [![Skills](https://skillicons.dev/icons?i=bash,docker,fastapi,golang,kubernetes,neovim,nuxt,postgres,python,ts,rust,tailwind,tensorflow,grafana,java,prisma,prometheus,rabbitmq,redis,gitlab,nodejs,deno,pinia,github,react,git,js,elasticsearch,idea&perline=8)](https://skillicons.dev)
 
 ---
+
+### Currently Exploring
 
 [![Exploring](https://skillicons.dev/icons?i=astro,gradle,spring,vercel,terraform,hibernate&perline=6)](https://skillicons.dev)
 
