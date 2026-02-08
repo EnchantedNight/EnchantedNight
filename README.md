@@ -26,7 +26,7 @@
 
 ### Wanna try
 
-[![Try](https://skillicons.dev/icons?i=dart,flutter,supabase,pytorch,terraform&perline=6)](https://skillicons.dev)
+[![Try](https://skillicons.dev/icons?i=pytorch,terraform&perline=6)](https://skillicons.dev)
 
 ---
 
