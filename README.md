@@ -14,20 +14,20 @@
 
 ### Gained Skills
 
-[![Skills](https://skillicons.dev/icons?i=bash,docker,fastapi,golang,kubernetes,neovim,nuxt,postgres,python,ts,rust,tailwind,tensorflow,java,kafka,prisma,rabbitmq,redis,gitlab,nodejs,deno,pinia,github,react,git,js,elasticsearch,idea,next,solidjs,nest&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=bash,docker,fastapi,golang,kubernetes,neovim,nuxt,postgres,python,ts,rust,tailwind,tensorflow,java,kafka,prisma,rabbitmq,redis,gitlab,nodejs,deno,pinia,github,react,git,js,elasticsearch,idea,next,solidjs,nest,vercel&perline=8)](https://skillicons.dev)
 
 ---
 
 ### Currently Exploring
 
-[![Exploring](https://skillicons.dev/icons?i=astro,gradle,spring,vercel,hibernate&perline=6)](https://skillicons.dev)
-
+[![Exploring](https://skillicons.dev/icons?i=astro,gradle,spring,hibernate,pytorch&perline=6)](https://skillicons.dev)
+<!--
 ---
 
 ### Wanna try
 
-[![Try](https://skillicons.dev/icons?i=pytorch,terraform&perline=6)](https://skillicons.dev)
-
+[![Try](https://skillicons.dev/icons?i=terraform&perline=6)](https://skillicons.dev)
+-->
 ---
 
 ### Hobbies?
