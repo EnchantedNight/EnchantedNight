@@ -22,9 +22,13 @@
 
 [![Exploring](https://skillicons.dev/icons?i=astro,gradle,spring,hibernate,pytorch,svelte&perline=6)](https://skillicons.dev)
 
+<!--
+
 ### Wanna try
 
-[![Try](https://skillicons.dev/icons?i=terraform,solidity&perline=6)](https://skillicons.dev)
+[![Try](https://skillicons.dev/icons?i=terraform&perline=6)](https://skillicons.dev)
+
+-->
 
 ### Hobbies?
 
