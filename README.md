@@ -14,7 +14,7 @@
 
 ### Gained Skills
 
-[![Skills](https://skillicons.dev/icons?i=bash,docker,fastapi,golang,kubernetes,neovim,nuxt,postgres,python,ts,rust,tailwind,tensorflow,java,kafka,prisma,rabbitmq,redis,gitlab,nodejs,deno,pinia,github,react,git,js,elasticsearch,idea,next,nest,vercel,vite,reactivex,googlecloud&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=bash,docker,fastapi,golang,kubernetes,neovim,nuxt,postgres,python,ts,rust,tailwind,tensorflow,java,kafka,prisma,rabbitmq,redis,gitlab,nodejs,deno,pinia,github,react,git,js,elasticsearch,idea,next,nest,vercel,vite,reactivex,googlecloud,clion&perline=8)](https://skillicons.dev)
 
 ---
 
