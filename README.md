@@ -20,7 +20,7 @@
 
 ### Currently Exploring
 
-[![Exploring](https://skillicons.dev/icons?i=astro,pytorch,svelte&perline=6)](https://skillicons.dev)
+[![Exploring](https://skillicons.dev/icons?i=astro,pytorch,svelte,kotlin&perline=6)](https://skillicons.dev)
 
 <!--
 
