@@ -12,23 +12,9 @@
 
 ---
 
-### Gained Skills
+### Skills
 
-[![Skills](https://skillicons.dev/icons?i=bash,docker,fastapi,golang,kubernetes,neovim,nuxt,postgres,python,ts,rust,tailwind,tensorflow,java,kafka,prisma,rabbitmq,redis,gitlab,nodejs,deno,pinia,github,react,git,js,elasticsearch,idea,next,nest,vercel,vite,reactivex,googlecloud,spring,hibernate,gradle&perline=8)](https://skillicons.dev)
-
----
-
-### Currently Exploring
-
-[![Exploring](https://skillicons.dev/icons?i=astro,pytorch,svelte,kotlin,cloudflare&perline=6)](https://skillicons.dev)
-
-<!--
-
-### Wanna try
-
-[![Try](https://skillicons.dev/icons?i=terraform&perline=6)](https://skillicons.dev)
-
--->
+[![Skills](https://skillicons.dev/icons?i=bash,docker,kubernetes,nuxt,postgres,typescript,rust,tailwind,prisma,rabbitmq, redis,github,pinia,react,git,javascript,next,vercel,vite,googlecloud,svelte,cloudlflare&perline=8)](https://skillicons.dev)
 
 ---
 
