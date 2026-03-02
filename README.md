@@ -6,7 +6,7 @@
 
 <div align="left">
 
-> ### I love Computer Science, Operating System and Distributed Systems
+> ### I love Computer Science, Operating and Distributed Systems
 
 </div>
 
