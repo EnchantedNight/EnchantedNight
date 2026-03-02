@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Hey there!
+# Hey there!
 
 ### I'm Enchanted, and I'm 17 y.o.
 
