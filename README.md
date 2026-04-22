@@ -14,7 +14,7 @@
 
 ### Skills
 
-[![Skills](https://skillicons.dev/icons?i=typescript,rust,nuxt,next,react,pinia,vite,tailwind,prisma,,postgres,rabbitmq,redis,kubernetes,terraform,vercel,googlecloud,github&perline=6)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=typescript,rust,nuxt,next,react,pinia,vite,tailwind,prisma,postgres,rabbitmq,redis,kubernetes,terraform,vercel,googlecloud,github&perline=6)](https://skillicons.dev)
 
 ---
 
