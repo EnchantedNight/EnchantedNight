@@ -14,7 +14,7 @@
 
 ### Stack
 
-[![Skills](https://skillicons.dev/icons?i=typescript,rust,nuxt,next,react,pinia,vite,vitest,tailwind,prisma,postgres,redis,kubernetes,terraform,vercel&perline=5)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=typescript,rust,nuxt,next,react,pinia,vite,tailwind,prisma,postgres,redis,kubernetes,terraform,cloudflare,vercel&perline=5)](https://skillicons.dev)
 
 ---
 
