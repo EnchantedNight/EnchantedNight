@@ -22,8 +22,8 @@
 
 <div align="left">
   
-> #### Doing Gym
-> #### Playing Basketball
+> #### Working out in gym
+> #### Playing basketball
 > #### Reading books
 > #### Learning about AI
 
